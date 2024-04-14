@@ -9,7 +9,7 @@ La technologie est omniprésente dans la vie de chacun. Les circuits imprimés e
 Connaitre et comprendre le fonctionnement de chacun des composants de base essentiels en électronique.
 - Utilité des composants
 - Fonctionnement des composants
-- Schéma de branchement des composants
+- Schéma de circuit imprimé
 - Exemples d'utilisation
 
 ### Démarche
@@ -21,4 +21,3 @@ Connaitre et comprendre le fonctionnement de chacun des composants de base essen
     - Démontrer la bonne façon de brancher les composants
 - Phase III
     - Concevoir un schéma de circuit appliquant les composants de base
-    - Concevoir le circuit en question
