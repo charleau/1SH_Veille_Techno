@@ -1,6 +1,7 @@
 # Recherches
 ### Qu'est-ce qu'une ***thermistance*** ?
-![alt text](https://github.com/charleau/1SH_Veille_Techno/blob/main/img/image.png)
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/image.png" width="150" height="auto">
+
 - abréviation de *résistance thermosensible*
 - Élément de détection de la température
 - Composé d'un semi-conducteur dont la conductivité varie selon la température
