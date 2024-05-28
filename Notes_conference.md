@@ -38,6 +38,7 @@ ___
             - Punir, dissuader, réhabiliter, favoriser l'ordre public
 
 - **Responsabilité civile**
+    -
     - Prévue dans le Code Civil du Québec
     - But de réparer
         - Démontrer les dommages
@@ -132,6 +133,7 @@ ___
         - Le contrat valable est formé dès réception de l'acceptation
 
 - **Droit de l'entreprise**
+    -
 
     **Manques des infos - Voir Malyk**
     - Critères 
@@ -198,7 +200,81 @@ ___
             - Un bon conseil, consulter un avocat en droits de l'entreprise
 
 - **Droit du travail**
-    - 
+    -
+    - Employé ou travailleur autonome
+        - Employé
+            - Implique qu'il y ait un contrat de travail
+            - Bénificie de la protection associé au droit du travail
+        - Travailleur autonome
+            - Implique qu'il y ait un contrat de service
+    - Entreprise fédérale ou provinciale
+        - Fédérale
+            - Code canadien du travail
+            - Loi sur les accidents du travail et maladies professionnelles, Code civil du Québec
+        - Provinciale
+            - Code du travail
+            - Loi sur les normes du travail
+            - 
+    - Droit collectif ou individuel?
+        - Collectif
+            - Code du travail
+            - Syndicat
+            - Convention collective
+        - Individuel
+            - Code civil du Qc
+            - Loi sur les normes du travail
+    - Types de contrats
+        - Contrat de travail
+            - Prévu au C.c.Q. Art. 2085 et suivants
+            - Critères
+                - Prestation de travail
+                - Contre rémunération
+                - Lien de subordination
+            - Durée déterminée ou indéterminée
+            - Obligations du travailleur ( Art. 2088 C.c.Q. )
+                - Exécuter la prestation de travail
+                - Obligation de loyauté
+                - Ne pas faire usage de l'information confidentielle
+            - Obligation de l'employeur ( Art. 2087 C.c.Q. )
+                - Permettre l'exécution de la prestation du travail
+                - Payer la rémunération
+                - Prendre les mesures appropriées pour protéger la santé, la sécurité et la dignité des employés
+            - Les deux parties doivent le respecter
+            - Possibilité de le modifier avec l'Accord des deux parties
+            - Fin du contrat
+                - Durée déterminée
+                    - Fin du contrat
+                    - Motif sérieux ( Art. 2094 C.c.Q. )
+                - Durée indéterminée
+                    - En tout temps avec préavis raisonnable ( Art. 2091 C.c.Q. )
+                        - Multiple critères
+                    - Absence de préavis
+                        - Somme d'argent tenant lieux du préavis
+                        - Obligation de minimiser les dommages
+                            - Ne pas refuser une offre d'emploi raisonnable
+                            - Prendre des mesures raisonnables pour se trouver un autre emploi
+                    - Motif sérieux ( Art. 2094 C.c.Q. )
+            - Clause de non-concurrence
+                - Art. 2089 C.c.Q.
+                - Conditions
+                    - Doit être écrite
+                    - Doit être explicite
+                - Limites
+                    - Temps
+                    - Lieux
+                    - Object
+                - Tribunal ne peut la réécrire.
+                    - Si elle tombe, elle tombe au complet
+                - Possible de prévoir une clause pénale
+                    - Doit être un montant raisonnable
+        - Contrat de service
+            - Prévu au C.c.Q. Art. 2098 et suivants
+            - Libre choix des moyens d'exécution
+            - Niveau d'obligations variable
+            - Résilience unilatérale possible pour le client
+        - Comment les distinguer?
+            - Lien de subordination (pouvoir de direction et de contrôle)
+            - Le tribunal n'est pas lié par les mots utilisés par les parties
 
 - **Propriété intellectuelle**
     - 
