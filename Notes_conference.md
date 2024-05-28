@@ -132,7 +132,70 @@ ___
         - Le contrat valable est formé dès réception de l'acceptation
 
 - **Droit de l'entreprise**
-    - 
+
+    **Manques des infos - Voir Malyk**
+    - Critères 
+        - Plan
+        - Actifs
+        - Série d'actes juridiques
+    - L'immatriculation
+        - Régie par la Loi sur la publicité légale des entreprises
+            - Certaines (la plupart des) entreprises doivent s'immatriculer après du registraire des entreprises du Québec
+        - Art. 21 de la LPLE prévoit les entreprises assujetties
+            - Personne qui exploite une entreprise individuelle sous un nom qui n'inclut pas son nom de famille et/ou son prénom
+            - Société en nom collectif ou en conmmandite constituée au Québec
+            - Société de personnes constituées hors Québec
+            - Personnes morales constituées au Québec ou hors Québec
+        - Doit rendre des déclarations annuelles, des déclarations de mise à jour ou de radiation
+        - Art. 17 LPLE prévoit que certains noms son prohibés
+    - L'entreprise individuelle
+        - Exploitée par une personne seule
+        - Le propriétaire
+            - Possède
+    - Société en nom collectif
+        - Regroupement de plusieurs personnes
+        - Formation par contrat (écrit ou par les gestes)
+            - Apport
+            - Participation aux bénéfices
+            - Esprit de collaboration
+        - Plus ou moins de formalisme requis
+            - Le C.c.Q. prévoit plusieurs règles en cas de silence des parties
+                - Séparation égale des revenus et pertes
+                - etc.
+            - Obligation de s'immatriculer
+        - Plusieurs droits et devoirs des associés
+        - Responsabilité conjointe des associés
+            - Responsabilité solidaire pour les actes effectués dans le cours de l'exploitation d'une entreprise
+    - Autres formes de société de personnes
+        - Société en commandite
+            - Commandité
+                - S'occupe de la gestion de la société
+                - Pleine responsabilité
+            - Commanditaire
+                - Fournis les fonds et les biens + peuvent donner des avis consultatifs
+                - Responsabilité limité à son apport à la société
+            - Obligation de s'immatriculer
+        - Société en participation
+    - Société par actions
+        - Actions qui appartiennent à un ou plusieurs personnes
+            - Trois droits de base
+                - Droit de vote
+                - Droit aux dividendes
+                - Droit au partage du reliquat
+            - Égalité entre les actionnaires
+                - Possibilité de distinctions entre les catégories d'Action
+        - Responsabilité limité des actionnaires
+            - La société constitue une personne morale, elle est distincte des ses actionnaires
+            - Art. 317 C.c.Q.
+        - Société canadienne vs Québécoise
+            - CA
+                - Loi canadienne sur les sociétés par actions
+            - QC
+                - Loi sur les sociétés par actions
+            - L'essentiel des règles demeure, mais il existe certaines distinctions importante
+        - Énormément de formalités et de lois
+            - Mais accorde aussi une grande liberté aux actionnaires, ce qui facilite les investissements
+            - Un bon conseil, consulter un avocat en droits de l'entreprise
 
 - **Droit du travail**
     - 
