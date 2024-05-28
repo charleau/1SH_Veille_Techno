@@ -30,3 +30,15 @@
         - Supercondensateur
 - Sources
     - [knowhow.distrelec.com](https://knowhow.distrelec.com/fr/energie-et-alimentation-electrique/guide-des-condensateurs-types-applications-et-choix-de-la-bonne-solution/)
+    - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/common-types-of-capacitors-and-how-they-are-made)
+
+### Qu'est-ce qu'une ***résistance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/resistance.png" width="auto" height="300">
+
+- Élément servant à diminuer un courant électrique
+- Unité d'une résistance
+    - Ohm ( Ω ) | **Voir loi d'Ohm**
+    - Barres de couleurs servent à indiquer la résistance
+- Sources
+    - [superprof.fr](https://www.superprof.fr/ressources/physique-chimie/physique-chimie-3eme/conducteur-ohmique-appareil.html)
+    - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
