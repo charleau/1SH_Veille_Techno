@@ -1,4 +1,5 @@
 # Recherches
+## Composantes
 
 ### Qu'est-ce qu'un ***condensateur*** ?
 <img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/condensateur.png" width="auto" height="300">
@@ -110,3 +111,35 @@
 - Sources
     - [passionelectronique.fr](https://passionelectronique.fr/photoresistance/)
     - [ourpcbfr.com](https://ourpcbfr.com/resistance-dependante-de-la-lumiere.html)
+
+### Qu'est-ce qu'un ***potentiomètre*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/potentiomètre.png" width="auto" height="300">
+
+- Agit comme une résistance variable
+- Sert à controler le niveau de courant électrique qui le traverse
+- Sources
+    - [rayzeek.com](https://www.rayzeek.com/fr/glossary/quest-ce-quun-potentiometre)
+
+### Qu'est-ce qu'une ***inductance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/inductance.png" width="auto" height="300">
+
+- Utilités
+    - Créer un champ magnétique
+    - Filtrer des signaux
+    - Filtrer le bruit
+    - Stabiliser le courant
+    - Supprimer les interférances électromagnétiques
+- Types
+    - Inductance à air
+        - Simple bobine de fil cuivré
+        - Inductance plus basse
+        - Plus proches des attentes en termes de bande passante et de saturation
+    - Inductance à noyau magnétique
+        - Accepete des valeurs plus élevées
+        - Permet une optimisation de la bande passante
+        - Types de noyau
+            - Ferrite pour les hautes fréquences
+            - Fer pour les basses fréquences
+- Sources
+    - [techno-science.net](https://www.techno-science.net/definition/3177.html)
+    - [circe-technologies.com](https://www.circe-technologies.com/inductance2.html)
