@@ -70,3 +70,14 @@
 - Sources
     - [opencircuit.fr](https://opencircuit.fr/blog/hoe-werkt-een-diode)
     - [redeweb.com](https://www.redeweb.com/fr/actualidad/que-es-un-diodo/)
+
+### Qu'est-ce qu'un ***transistor*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/transistor.png" width="auto" height="300">
+
+- Sert à amplifier, faire basculer des signaux électroniques ou de l’énergie électrique
+- Émetteur, base et collecteur
+
+- Sources
+    - [canada.lenovo.com](https://canada.lenovo.com/fr/ca/en/glossary/what-is-a-transistor/?orgRef=https%253A%252F%252Fwww.google.com%252F)
+    - [lespetitesanalyses.com](https://lespetitesanalyses.com/2023/10/21/quest-ce-quun-transistor/)
+    - [couleur-science.eu](https://couleur-science.eu/?d=775902--cest-quoi-un-transistor-comment-ca-marche)
