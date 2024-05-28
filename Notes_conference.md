@@ -1,5 +1,7 @@
 # Notes conférences sur le droit
 paul-david_traore@hotmail.com
+
+[legisquebec.gouv.qc.ca](https://www.legisquebec.gouv.qc.ca/fr/document/lc/ccq-1991)
 ___
 
 - **Principes et concepts fondamentaux**
@@ -114,6 +116,20 @@ ___
             - Moyens de défense
                 - Contester un critère
                 - Force majeure
+
+    - Contrat valable
+        - Capacité
+        - Consentement
+            - Doit être libre et éclairé
+            - Offre
+            - Acceptation
+        - Objet
+            - Objet de la prestation: Doit être possible, déterminé ou déterminable et licite
+            - Objet de la prestation: L'opération juridique envisagée
+        - Cause
+            - Raison objective et subjective qui amène à contracter
+            - Doit être licite
+        - Le contrat valable est formé dès réception de l'acceptation
 
 - **Droit de l'entreprise**
     - 
