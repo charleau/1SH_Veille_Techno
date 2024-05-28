@@ -1,6 +1,23 @@
-# Recherches
-## Composantes
+# **Recherches**
+## **Courant**
+- Sources
+    - [edf.fr](https://www.edf.fr/groupe-edf/espaces-dedies/jeunes-enseignants/pour-les-jeunes/lenergie-de-a-a-z/lelectricite-au-quotidien/volt-watt-ampere-les-unites-en-electricite#:~:text=En%20%C3%A9lectricit%C3%A9%2C%20puissance%20%3D%20tension%20x,robinet%20est%20ouvert%20(intensit%C3%A9).)
+    - [alterna-energie.fr](https://www.alterna-energie.fr/blog-article/le-courant-electrique-quest-ce-que-cest)
 
+### Qu'est-ce que la ***tension*** ?
+- Mesuré en *Volts* (*voltage*)
+- Sert à mesurer la force électrique du courant
+- Traduit la différence de potentiel entre deux points
+
+### Qu'est-ce que la ***puissance*** ?
+- Mesuré en *Watts* (*wattage*)
+- Sert à mesurer la quantité d'énergie durant un temps donné
+
+### Qu'est-ce que l'***intensité*** ?
+- Mesuré en *ampères* (*ampérage*)
+- Sert à mesurer l'intensité d'un courant électrique
+
+## **Composantes**
 ### Qu'est-ce qu'un ***condensateur*** ?
 <img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/condensateur.png" width="auto" height="300">
 
