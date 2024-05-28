@@ -37,32 +37,6 @@ ___
 
 - **Responsabilité civile**
     - Prévue dans le Code Civil du Québec
-    - Deux formes
-        - Extracontractuelle de base
-            - Régis les principes de base
-                - S'applique à tous les cas qui ne sont pas visés par d'autres articles
-            - Critères
-                - Faute
-                - Préjudice
-                - Lien de causalité
-                - Être doué de raison
-            - Moyens de défense
-                - Contester un critère
-                - Force majeure
-                - Faute de la victime
-        - Extracontractuelle Employé/employeur
-            - L'employeur est obligé de réparer la faute de son employé
-            - Critères
-                - Faute du préposé
-                - Préjudice
-                - Lien de causalité
-                - Lien de préposition (pouvoir de direction et contrôle)
-                - Dans le cadre de l'exécution des fonctions du préposé
-            - Moyens de défense
-                - Contester un critère
-                - Force majeure
-                - Faute de la victime
-        - Contractuelle
     - But de réparer
         - Démontrer les dommages
         - Couvrir les dommages subis
@@ -73,7 +47,73 @@ ___
         - Responsabilité est une question de fait
         - Pas de jury
         - Voir art. 1471 C.c.Q.
-    
+    - Deux formes
+        - Extracontractuelle 
+            - Base
+                - Régis les principes de base
+                    - S'applique à tous les cas qui ne sont pas visés par d'autres articles
+                - Critères
+                    - Faute
+                    - Préjudice
+                    - Lien de causalité
+                    - Être doué de raison
+                - Moyens de défense
+                    - Contester un critère
+                    - Force majeure
+                    - Faute de la victime
+            - Employé/employeur
+                - L'employeur est obligé de réparer la faute de son employé
+                - Critères
+                    - Faute du préposé
+                    - Préjudice
+                    - Lien de causalité
+                    - Lien de préposition (pouvoir de direction et contrôle)
+                    - Dans le cadre de l'exécution des fonctions du préposé
+                - Moyens de défense
+                    - Contester un critère
+                    - Force majeure
+                    - Faute de la victime
+            - Fait autonome du bien
+                - S'applique au gardien du bien
+                - Critères
+                    - Absence de contrat avec la victime
+                    - Fabriqué, distribué ou fournie par le défendeur
+                    - Défaut de sécurité du bien
+                        - Au moment de la conception
+                        - N'a pas la sécurité à laquelle on peut normalement s'attendre selon l'usage ordinaire
+                    - Préjudice
+                    - Lien de causalité
+                - Moyens de défense
+                    - La victime connaissait ou était en mesure de connaitre le défaut du bien, ou pouvait en prévoir le préjudice
+                    - Le défaut ne pouvait être connu, compte tenu de l'état des connaissances à l'époque et le défendeur n'a pas été négligent dans son devoir d'information lorsqu'il a eu connaissance de l'existance de ce défaut
+                    - Contester un critère
+                    - Force majeure
+            - Défaut de sécurité d'un bien meuble
+                - S'applique au fabriquant, distributeur, fournisseur
+                - Critères
+                    - Concerne un bien (chose, objet, etc.)
+                    - Garde du bien (pouvoir de direction et contrôle)
+                    - Fait actif et autonme du bien
+                    - Préjudice
+                    - Lien de causalité
+                - Moyens de défense
+                    - Prouver qu'on n'a commis aucune faute dans la garde du bien
+                    - Contester un critère
+                    - Force majeure
+                    - Faute de la victime
+        - Contractuelle
+            - S'applique à TOUS les cas où il y a un contrat
+            - Une personne doit réparer le préjudice qu'elle cause par le non-respect d'un contrat
+            - Critères
+                - Contrat valable
+                - Contenu obligationnel du contrat est établi
+                - Innexécution fautive
+                - Lien de causalité
+                - Préjudice
+                    - Clause pénale
+            - Moyens de défense
+                - Contester un critère
+                - Force majeure
 
 - **Droit de l'entreprise**
     - 
