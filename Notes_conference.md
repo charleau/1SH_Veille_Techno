@@ -455,8 +455,30 @@ ___
                     - Résultat possible
                         - Brevet déclarer invalide / null en partie ou en totalité
 
-            ___
-            - 
-
 - **Droit criminel et pénal**
     - 
+    - ...
+    - Droit criminel
+        - Liste d'interdiction
+        - But d'interdire des comportements précis
+        - Ex: Code criminel
+    - Droit pénal
+        - Décris comment on doit se conduire et prévoit des sactions pour le non-respect
+        - But d'assurer le respect des lois
+        - Ex: Code de la sécurité routière
+    - Grands principes
+        - ...
+        - Présomption d'innocence
+            - ...
+            - Lourd fardeau de la preuve
+                - Hors de tout doute raisonnalble
+            - Droit de garder le silence
+        - Principe de légalité
+            - Beaucoup de garanties juridiques
+                - Droit à un procès équitable
+                - Droit à une défense pleine et entière
+            - Pas de crime sans loi
+    - Essentiels aux infractions
+        - ...
+        - *actus reus* / *mens rea* présent en même temps
+        - Chaque infractions a ses propres *actus reus* / *mens rea*
