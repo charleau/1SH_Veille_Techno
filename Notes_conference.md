@@ -278,6 +278,185 @@ ___
 
 - **Propriété intellectuelle**
     - 
+    - Droits d'auteur
+        - Loi fédérale
+        - Garantit différents droits sur l'oeuvre dès sa création
+            - Pas obligé d'enregistré l'oeuvre, mais en facilite la preuve
+            - Droit économique ( aspect pécuniaire ) ( Art. 3 LDA )
+                - Produire, reproduire
+                - Représenter, traduire
+            - Droit moraux ( Art. 14.1 et suivants LDA )
+                - Intégrité de l'oeuvre
+                - Association avec produits ou services sans permission
+        - Logiciels informatiques sont protégés comme oeuvres littéraires
+            - Durée de 70 ans après le décès de son auteur ( Art. 6 LDA )
+                - Exception pour
+                    - Les oeuvres anonymes ( Art. 6.1 LDA )
+                    - Les oeuvres créées en collaboration ( 70 ans après décès dernier auteur ) ( Art. 9 LDA )
+        ___
+        - Titulaires des droits d'auteur
+            - Personne physique
+                - Exception
+                    - Employeur est titulaire du droit si fait dans le cadre du travail SAUF si contrat prévoit contraire
+                    - Implique que l'employé a un contrat valide ET que l'oeuvre a été fait dans le cadre du travail
+                    - **Attention** contrat d'emploi vs contrat de service
+                        - Le travailleur autonome conserve ses droits d'auteur
+            - Lorsque plusieurs auteurs
+                - Implique des parts non distinctes
+                - Considérée "collaborative" en fonctions des faits
+                    - Voir l'intention des parties
+                - Nécessite l'accord de tous les auteurs pour effectuer une action protégée
+            - Les droit peuvent être cédés
+                - Possibilité de céder de façon individuelle
+                - Droit moraux ne peuvent jamais être cédé, mais peuvent être renoncé
+            - Possibilité d'accorder une licence
+        ___
+        - Photographie ( Art. 32.2(1)f) LDA )
+            - Le photographe est titulaire des droits d'auteur
+            - La personne photographiée peut les utiliser à des fins privées ou non-commerciales
+            - Sauf si inverse prévu au contrat
+        - Professeur
+            - Similaire à l'employé
+            - Généralement l'établissement qui possède les droits
+            - Souvent régis par contrat
+        ___
+        - Exigences
+            - Oeuvre doit être originale
+            - Plus qu'une simple copie d'une autre oeuvre
+            - L'auteur doit l'avoir produit par l'exercice de son talent et de son jugement
+            - Il faut un minimum d'effort intellectuel
+        - Critères de fixation
+            - L'oeuvre doit être fixée / incorporée à un médium
+            - Doit être sur un support permettant à l'humain d'y avoir accès
+                - Clé USB
+                - papier
+                - etc.
+        - Ce qui est protégé
+            - L'expression d'une oeuvre
+            - Les idées ne sont pas protégées
+            - Si l'oeuvre ne peut pas être protégées de différentes façons
+                - Elle ne le sera pas du tout
+                - Ex: formules mathématiques, algorithmes
+    ___
+    - Violation aux droits d'auteur
+        - Le fait de faire une action protégée sans le consentement de son titulaire
+        - Multiples exceptions
+            - Utilisation équitable
+                - Éducation
+                - Parodie
+                - Satire
+                - Recherche
+        - Questions de fait
+        - Moyen de défense
+            - Invoquer une exception connue
+    ___
+    - Licence
+        - Droit économique seulement
+        - Souvent payant
+        - Souvent temporaire
+        - Licence est un contrat
+        - En informatique
+            - Open source
+                - Déprivatisation
+                - Gratuit
+            - Logiciel libre
+                - Pas nécessairement gratuit
+            - Copyleft
+                - Limite la possibilité de privatiser l'oeuvre après les modifications
+                - Oblige à redistribuer selon les mêmes droits et libertés que l'original
+        - **SUPER IMPORTANT DE LIRE LES LICENCES**
+    ___
+    - Secret commercial
+        - Permet d'éviter la divulgation d'informations confidentielles
+        - Ne donne pas de monopole au propriétaire
+        - Durée infinie (tant que n'est pas divulgué)
+        - Compétence provinciale (propriété et droits civils)
+    ___
+    - Les brevet
+        - Compétence fédérale
+        - Basé sur l'idée de marché entre l'inventeur et la société
+            - L'inventeur divulgue son invention et recoit une protection en échange
+            - But de faire évoluer la société
+            - Obligé de divulgué contrairement aux droits d'auteur
+            - On peut consulter un brevet sur demande 18 mois après.
+        ___
+        - Les objets brevetables
+            - Quoi
+                - Réalisation
+                - Procédé
+                - Machine
+                - Composante
+                - Matière
+            - Présentant une nouveauté et une utilité
+            - Critère de nouveauté
+                - Ne doit pas avoir été divulgué au public
+            - Critère d'utilité
+                - Fonctionnel et exploitable (doit servir à quelque chose)
+                - Pas forcément application commerciale ou pour la société
+                - Utilité doit être valablement démontrée ou prédite
+                - Nécessite plus que des spéculation, mais pas nécessaire d'être certain
+            - Inventif et non évident
+                - Apport inventif
+                    - Pas une simple manipulation
+                    - ...
+                - Personne versée dans l'art
+                    - Une personne expérimentée dans le domaine MAIS qui ne possède aucun esprit inventif ou d'imagination
+            ___
+            - On ne peut pas breveter un simple code
+                - Il doit entrainer une certaine modification
+                - ...
+
+            ___
+            - Contenu d'un brevet
+                - Le mémoire descriptif
+                    - Décris l'invention
+                    - Décris la façon de produire ou construire
+                    - Doit être suffisament détaillé pour pouvoir le reproduire par une personne travaillant dans ce domaine
+                    - Un manquement entraine l'invalidité du brevet
+                - Les revendications
+                    - Décrid ce que l'on souhaite protéger
+                    - Définis le monopole qui est conféré à un brevet
+                    - L'étude des revendications permet de déterminer s'il y a eu une contrefaçon
+
+            ___
+            - Droit conférés par un brevet
+                - Droit exclusif de fabriquer, construire, exploiter et vendre l'invention par son titulaire
+                - L'invention appartient à l'employeur si l'employé est engagé spécifiquement pour sa création
+                    - Dans d'autre cas, l'invention appartient à l'employé
+                    - Prévoir au contrat
+                - Co-auteur
+                    - Les personnes participant à la conception de l'invention
+                    - La simple vérification de l'invention ne rend pas co-auteur
+            ___
+            - Cession et licences des brevets
+                - Possible, il ne nous appartient plus
+                - Possible d'accorder des licences sur les brevet
+                    - Conserver la propriété
+                    - Autorise son utilisation
+                - Les cessions et licences doivent être publiées
+                    - Sinon on ne peut pas les utiliser contre des personnes qui ne sont pas parties au contrat
+            ___
+            - Recours associés aux brevets
+                - L'abus de droit
+                    - N'importe qui peut tenter d'attaquer le brevet au motif qu'il engendre un abus
+                    - Possible seulement après l'expiration d'une période de 3 ans après l'octroi du brevet
+                    - Le commissaire au brevet peut octroyer les réparations
+                        - Octroi d'une licence obligatoire
+                        - Déchéance du brevet
+                - La contrefaçon
+                    - Peut poursuivre toute personne qui contrefait ou nuit à la pleine jouissance de son monopole ou qui incite à la contrefaçon
+                    - Il faut interpréter les revendications ......
+                    - Prescription de 6 ans à compter de la commission de l'acte de contrefaçon
+                    - Réparation possible
+                        - Injonction et/ou remise des profits et/ou dommages-intérêts
+                - L'invalidité
+                    - Principalement un moyen de défense
+                        - On peut invoquer l'invalidité / nullité du brevet`
+                    - Résultat possible
+                        - Brevet déclarer invalide / null en partie ou en totalité
+
+            ___
+            - 
 
 - **Droit criminel et pénal**
     - 
