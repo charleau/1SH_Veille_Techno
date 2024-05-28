@@ -42,3 +42,31 @@
 - Sources
     - [superprof.fr](https://www.superprof.fr/ressources/physique-chimie/physique-chimie-3eme/conducteur-ohmique-appareil.html)
     - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
+
+### Qu'est-ce qu'une ***diode*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/diode.png" width="auto" height="300">
+
+- Élément servant à laisser passer le courant dans un sens unique
+- Anode = positif
+- Cathode = negatif
+- Types
+    - Diode standard
+        - Laisse passer le courant dans un seul sens
+    - Diode Zener
+        - Sert à réguler la tension
+    - Diode redresseur
+        - Sert à la conversion CA en CC ( courant alternatif en courant continu )
+    - Diode Schottky
+        - Même fonctionnement que la diode standard, mais à commutation plus rapide
+        - Pour une utilisation à plus haute fréquence
+    - Diode électroluminescente ( DEL | LED )
+        - Émet de la lumière lorsque la polarité est bonne
+    - Diode photodétecteur
+        - Sert à convertir la lumière en courant électrique
+    - Diode de puissance
+        - Même fonctionnement que la diode standard, mais capable de gérer des courants et des tensions plus élevées
+    - Diode de protection contre les surtensions
+        - Sert à protéger les circuits des surtensions
+- Sources
+    - [opencircuit.fr](https://opencircuit.fr/blog/hoe-werkt-een-diode)
+    - [redeweb.com](https://www.redeweb.com/fr/actualidad/que-es-un-diodo/)
