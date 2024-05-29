@@ -40,9 +40,6 @@
         - Negatif
         - Neutre*
 
-### Qu'est-ce que le ***courant continu (CC / DC)*** ?
-- 
-
 ## **Composantes**
 ### Qu'est-ce qu'un ***condensateur*** ?
 <img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/condensateur.png" width="auto" height="300">
