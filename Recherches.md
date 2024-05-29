@@ -1,8 +1,13 @@
 # **Recherches**
 ## **Courant**
 - Sources
-    - [edf.fr](https://www.edf.fr/groupe-edf/espaces-dedies/jeunes-enseignants/pour-les-jeunes/lenergie-de-a-a-z/lelectricite-au-quotidien/volt-watt-ampere-les-unites-en-electricite#:~:text=En%20%C3%A9lectricit%C3%A9%2C%20puissance%20%3D%20tension%20x,robinet%20est%20ouvert%20(intensit%C3%A9).)
-    - [alterna-energie.fr](https://www.alterna-energie.fr/blog-article/le-courant-electrique-quest-ce-que-cest)
+    - Tension, puissance, intensité
+        - [edf.fr](https://www.edf.fr/groupe-edf/espaces-dedies/jeunes-enseignants/pour-les-jeunes/lenergie-de-a-a-z/lelectricite-au-quotidien/volt-watt-ampere-les-unites-en-electricite#:~:text=En%20%C3%A9lectricit%C3%A9%2C%20puissance%20%3D%20tension%20x,robinet%20est%20ouvert%20(intensit%C3%A9).)
+        - [alterna-energie.fr](https://www.alterna-energie.fr/blog-article/le-courant-electrique-quest-ce-que-cest)
+    - Polarité
+        - [tme.eu](https://www.tme.eu/be/fr/news/library-articles/page/51361/polarisation-en-electronique-ce-quil-faut-savoir-a-ce-sujet/)
+     - Courant continu / alternatif
+        - [hydroquebec.com](http://www.hydroquebec.com/comprendre/notions-de-base/continu-alternatif.html#:~:text=Dans%20le%20courant%20alternatif%2C%20les,toujours%20dans%20le%20m%C3%AAme%20sens.) 
 
 ### Qu'est-ce que la ***tension*** ?
 - Mesuré en *Volts* (*voltage*)
@@ -16,6 +21,27 @@
 ### Qu'est-ce que l'***intensité*** ?
 - Mesuré en *ampères* (*ampérage*)
 - Sert à mesurer l'intensité d'un courant électrique
+
+### Qu'est-ce que la ***polarité*** ?
+- Distinction entre deux points opposés
+    - L'un chargé négativement (d'électrons)
+    - L'autre par leur déficience (aucune charge)
+- Le courant circule d'un point vers l'autre lorsque que le circuit est fermé
+- Les distinguer par leurs appellations
+    - Positif
+        - \+
+        - Vivant
+        - Actif
+        - Ligne
+        - Voltage
+    - Négatif
+        - \-
+        - Ground
+        - Negatif
+        - Neutre*
+
+### Qu'est-ce que le ***courant continu (CC / DC)*** ?
+- 
 
 ## **Composantes**
 ### Qu'est-ce qu'un ***condensateur*** ?
