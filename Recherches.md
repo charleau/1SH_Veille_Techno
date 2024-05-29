@@ -66,9 +66,11 @@
         - Une conversion à partir du CA
 - Courant alternatif
     - Les électrons se déplacent en alternance
-        - 
     - Possède une fréquence d'oscillation en *Hertz*
-
+    - Produit par un alternateur
+        - Aimant qui tourne à l'intérieur d'une bobine
+        - Deux pôles de l'aimant crée l'oscillation
+    - 99% de l'énergie électrique consommée dans le monde
 
 
 # **Composantes**
