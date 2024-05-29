@@ -1,4 +1,5 @@
 # **Recherches** <!-- omit in toc -->
+# Table des matières <!-- omit in toc -->
 - [**Courant**](#courant)
   - [Qu'est-ce que la ***tension*** ?](#quest-ce-que-la-tension-)
   - [Qu'est-ce que la ***puissance*** ?](#quest-ce-que-la-puissance-)
@@ -56,6 +57,7 @@
         - Ground
         - Negatif
         - Neutre*
+
 ## Le ***courant continu (CC / DC)*** vs le ***courant alternatif (CA / AC)***
 - Courant continu
     - Les électrons se déplacent dans un seul sens
