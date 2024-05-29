@@ -1,5 +1,22 @@
-# **Recherches**
-## **Courant**
+# **Recherches** <!-- omit in toc -->
+- [**Courant**](#courant)
+  - [Qu'est-ce que la ***tension*** ?](#quest-ce-que-la-tension-)
+  - [Qu'est-ce que la ***puissance*** ?](#quest-ce-que-la-puissance-)
+  - [Qu'est-ce que l'***intensité*** ?](#quest-ce-que-lintensité-)
+  - [Qu'est-ce que la ***polarité*** ?](#quest-ce-que-la-polarité-)
+  - [Le ***courant continu (CC / DC)*** vs le ***courant alternatif (CA / AC)***](#le-courant-continu-cc--dc-vs-le-courant-alternatif-ca--ac)
+- [**Composantes**](#composantes)
+  - [Qu'est-ce qu'un ***condensateur*** ?](#quest-ce-quun-condensateur-)
+  - [Qu'est-ce qu'une ***résistance*** ?](#quest-ce-quune-résistance-)
+  - [Qu'est-ce qu'une ***diode*** ?](#quest-ce-quune-diode-)
+  - [Qu'est-ce qu'un ***transistor*** ?](#quest-ce-quun-transistor-)
+  - [Qu'est-ce qu'un ***varistor*** ou une ***varistance*** ?](#quest-ce-quun-varistor-ou-une-varistance-)
+  - [Qu'est-ce qu'une ***thermistance*** ?](#quest-ce-quune-thermistance-)
+  - [Qu'est-ce qu'une ***photorésistance*** ?](#quest-ce-quune-photorésistance-)
+  - [Qu'est-ce qu'un ***potentiomètre*** ?](#quest-ce-quun-potentiomètre-)
+  - [Qu'est-ce qu'une ***inductance*** ?](#quest-ce-quune-inductance-)
+
+# **Courant**
 - Sources
     - Tension, puissance, intensité
         - [edf.fr](https://www.edf.fr/groupe-edf/espaces-dedies/jeunes-enseignants/pour-les-jeunes/lenergie-de-a-a-z/lelectricite-au-quotidien/volt-watt-ampere-les-unites-en-electricite#:~:text=En%20%C3%A9lectricit%C3%A9%2C%20puissance%20%3D%20tension%20x,robinet%20est%20ouvert%20(intensit%C3%A9).)
@@ -9,20 +26,20 @@
      - Courant continu / alternatif
         - [hydroquebec.com](http://www.hydroquebec.com/comprendre/notions-de-base/continu-alternatif.html#:~:text=Dans%20le%20courant%20alternatif%2C%20les,toujours%20dans%20le%20m%C3%AAme%20sens.) 
 
-### Qu'est-ce que la ***tension*** ?
+## Qu'est-ce que la ***tension*** ?
 - Mesuré en *Volts* (*voltage*)
 - Sert à mesurer la force électrique du courant
 - Traduit la différence de potentiel entre deux points
 
-### Qu'est-ce que la ***puissance*** ?
+## Qu'est-ce que la ***puissance*** ?
 - Mesuré en *Watts* (*wattage*)
 - Sert à mesurer la quantité d'énergie durant un temps donné
 
-### Qu'est-ce que l'***intensité*** ?
-- Mesuré en *ampères* (*ampérage*)
+## Qu'est-ce que l'***intensité*** ?
+- Mesuré en *Ampères* (*ampérage*)
 - Sert à mesurer l'intensité d'un courant électrique
 
-### Qu'est-ce que la ***polarité*** ?
+## Qu'est-ce que la ***polarité*** ?
 - Distinction entre deux points opposés
     - L'un chargé négativement (d'électrons)
     - L'autre par leur déficience (aucune charge)
@@ -39,10 +56,24 @@
         - Ground
         - Negatif
         - Neutre*
+## Le ***courant continu (CC / DC)*** vs le ***courant alternatif (CA / AC)***
+- Courant continu
+    - Les électrons se déplacent dans un seul sens
+        - Du pôle négatif vers le pôle positif
+        - Déplacement en continu
+    - Peut être produit par
+        - Une réaction chimique (ex: pile)
+        - Une conversion à partir du CA
+- Courant alternatif
+    - Les électrons se déplacent en alternance
+        - 
+    - Possède une fréquence d'oscillation en *Hertz*
 
-## **Composantes**
-### Qu'est-ce qu'un ***condensateur*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/condensateur.png" width="auto" height="300">
+
+
+# **Composantes**
+## Qu'est-ce qu'un ***condensateur*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/condensateur.png" width="auto" height="300">
 
 - Élément de stockage de charges électriques
 - Trois paramètres principaux
@@ -59,8 +90,8 @@
     - [knowhow.distrelec.com](https://knowhow.distrelec.com/fr/energie-et-alimentation-electrique/guide-des-condensateurs-types-applications-et-choix-de-la-bonne-solution/)
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/common-types-of-capacitors-and-how-they-are-made)
 
-### Qu'est-ce qu'une ***résistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/resistance.png" width="auto" height="300">
+## Qu'est-ce qu'une ***résistance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/resistance.png" width="auto" height="300">
 
 - Élément servant à diminuer un courant électrique
 - Unité d'une résistance
@@ -70,8 +101,8 @@
     - [superprof.fr](https://www.superprof.fr/ressources/physique-chimie/physique-chimie-3eme/conducteur-ohmique-appareil.html)
     - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
 
-### Qu'est-ce qu'une ***diode*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/diode.png" width="auto" height="300">
+## Qu'est-ce qu'une ***diode*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/diode.png" width="auto" height="300">
 
 - Élément servant à laisser passer le courant dans un sens unique
 - Anode = positif
@@ -98,8 +129,8 @@
     - [opencircuit.fr](https://opencircuit.fr/blog/hoe-werkt-een-diode)
     - [redeweb.com](https://www.redeweb.com/fr/actualidad/que-es-un-diodo/)
 
-### Qu'est-ce qu'un ***transistor*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/transistor.png" width="auto" height="300">
+## Qu'est-ce qu'un ***transistor*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/transistor.png" width="auto" height="300">
 
 - Sert à amplifier, faire basculer des signaux électroniques ou de l’énergie électrique
 - Émetteur, base et collecteur
@@ -109,8 +140,8 @@
     - [lespetitesanalyses.com](https://lespetitesanalyses.com/2023/10/21/quest-ce-quun-transistor/)
     - [couleur-science.eu](https://couleur-science.eu/?d=775902--cest-quoi-un-transistor-comment-ca-marche)
 
-### Qu'est-ce qu'un ***varistor*** ou une ***varistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/varisistor.png" width="auto" height="300">
+## Qu'est-ce qu'un ***varistor*** ou une ***varistance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/varisistor.png" width="auto" height="300">
 
 - Sert à protéger les circuits des surtensions
 - Adapte sa résistance selon le courant d'entrée
@@ -118,8 +149,8 @@
 - Sources
     - [ourpcbfr.com](https://ourpcbfr.com/varistances-a-oxyde-metallique-mov.html)
 
-### Qu'est-ce qu'une ***thermistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/thermistance.png" width="auto" height="300">
+## Qu'est-ce qu'une ***thermistance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/thermistance.png" width="auto" height="300">
 
 - Abréviation de *résistance thermosensible*
 - Élément de détection de la température
@@ -135,8 +166,8 @@
     - [omega.com](https://www.omega.fr/prodinfo/thermistances.html)
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/how-does-a-thermistor-work)
 
-### Qu'est-ce qu'une ***photorésistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/photorésistance.png" width="auto" height="300">
+## Qu'est-ce qu'une ***photorésistance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/photorésistance.png" width="auto" height="300">
 
 - Aussi appellé *LDR*
 - Sert à détecter une intensité lumineuse
@@ -152,16 +183,16 @@
     - [passionelectronique.fr](https://passionelectronique.fr/photoresistance/)
     - [ourpcbfr.com](https://ourpcbfr.com/resistance-dependante-de-la-lumiere.html)
 
-### Qu'est-ce qu'un ***potentiomètre*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/potentiomètre.png" width="auto" height="300">
+## Qu'est-ce qu'un ***potentiomètre*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/potentiomètre.png" width="auto" height="300">
 
 - Agit comme une résistance variable
 - Sert à controler le niveau de courant électrique qui le traverse
 - Sources
     - [rayzeek.com](https://www.rayzeek.com/fr/glossary/quest-ce-quun-potentiometre)
 
-### Qu'est-ce qu'une ***inductance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/img/inductance.png" width="auto" height="300">
+## Qu'est-ce qu'une ***inductance*** ?
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/inductance.png" width="auto" height="300">
 
 - Utilités
     - Créer un champ magnétique
