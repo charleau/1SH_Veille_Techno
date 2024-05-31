@@ -78,7 +78,7 @@
 
 # **Composantes**
 ## Qu'est-ce qu'un ***condensateur*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/condensateur.png" width="auto" height="300"/>
+<img src="assets/condensateur.png" width="auto" height="300"/>
 
 - Élément de stockage de charges électriques
 - Trois paramètres principaux
@@ -96,7 +96,7 @@
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/common-types-of-capacitors-and-how-they-are-made)
 
 ## Qu'est-ce qu'une ***résistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/resistance.png" width="auto" height="300"/>
+<img src="assets/resistance.png" width="auto" height="300"/>
 
 - Élément servant à diminuer un courant électrique
 - Unité d'une résistance
@@ -107,7 +107,7 @@
     - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
 
 ## Qu'est-ce qu'une ***diode*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/diode.png" width="auto" height="300"/>
+<img src="assets/diode.png" width="auto" height="300"/>
 
 - Élément servant à laisser passer le courant dans un sens unique
 - Anode = positif
@@ -146,7 +146,7 @@
     - [couleur-science.eu](https://couleur-science.eu/?d=775902--cest-quoi-un-transistor-comment-ca-marche)
 
 ## Qu'est-ce qu'un ***varistor*** ou une ***varistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/varisistor.png" width="auto" height="300">
+<img src="assets/varisistor.png" width="auto" height="300">
 
 - Sert à protéger les circuits des surtensions
 - Adapte sa résistance selon le courant d'entrée
@@ -155,7 +155,7 @@
     - [ourpcbfr.com](https://ourpcbfr.com/varistances-a-oxyde-metallique-mov.html)
 
 ## Qu'est-ce qu'une ***thermistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/thermistance.png" width="auto" height="300">
+<img src="assets/thermistance.png" width="auto" height="300">
 
 - Abréviation de *résistance thermosensible*
 - Élément de détection de la température
@@ -172,7 +172,7 @@
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/how-does-a-thermistor-work)
 
 ## Qu'est-ce qu'une ***photorésistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/photorésistance.png" width="auto" height="300">
+<img src="assets/photorésistance.png" width="auto" height="300">
 
 - Aussi appellé *LDR*
 - Sert à détecter une intensité lumineuse
@@ -189,7 +189,7 @@
     - [ourpcbfr.com](https://ourpcbfr.com/resistance-dependante-de-la-lumiere.html)
 
 ## Qu'est-ce qu'un ***potentiomètre*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/potentiomètre.png" width="auto" height="300">
+<img src="assets/potentiomètre.png" width="auto" height="300">
 
 - Agit comme une résistance variable
 - Sert à controler le niveau de courant électrique qui le traverse
@@ -197,7 +197,7 @@
     - [rayzeek.com](https://www.rayzeek.com/fr/glossary/quest-ce-quun-potentiometre)
 
 ## Qu'est-ce qu'une ***inductance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/inductance.png" width="auto" height="300">
+<img src="assets/inductance.png" width="auto" height="300">
 
 - Utilités
     - Créer un champ magnétique
