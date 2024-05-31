@@ -16,6 +16,7 @@
   - [Qu'est-ce qu'une ***photorésistance*** ?](#quest-ce-quune-photorésistance-)
   - [Qu'est-ce qu'un ***potentiomètre*** ?](#quest-ce-quun-potentiomètre-)
   - [Qu'est-ce qu'une ***inductance*** ?](#quest-ce-quune-inductance-)
+- [Kikad](#kikad)
 
 # **Courant**
 - Sources
@@ -77,7 +78,7 @@
 
 # **Composantes**
 ## Qu'est-ce qu'un ***condensateur*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/condensateur.png" width="auto" height="300">
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/condensateur.png" width="auto" height="300"/>
 
 - Élément de stockage de charges électriques
 - Trois paramètres principaux
@@ -95,7 +96,7 @@
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/common-types-of-capacitors-and-how-they-are-made)
 
 ## Qu'est-ce qu'une ***résistance*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/resistance.png" width="auto" height="300">
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/resistance.png" width="auto" height="300"/>
 
 - Élément servant à diminuer un courant électrique
 - Unité d'une résistance
@@ -106,7 +107,7 @@
     - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
 
 ## Qu'est-ce qu'une ***diode*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/diode.png" width="auto" height="300">
+<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/diode.png" width="auto" height="300"/>
 
 - Élément servant à laisser passer le courant dans un sens unique
 - Anode = positif
@@ -134,7 +135,7 @@
     - [redeweb.com](https://www.redeweb.com/fr/actualidad/que-es-un-diodo/)
 
 ## Qu'est-ce qu'un ***transistor*** ?
-<img src="https://github.com/charleau/1SH_Veille_Techno/blob/main/assets/transistor.png" width="auto" height="300">
+<img src="assets/transistor.png" width="auto" height="300"/>
 
 - Sert à amplifier, faire basculer des signaux électroniques ou de l’énergie électrique
 - Émetteur, base et collecteur
@@ -218,3 +219,5 @@
 - Sources
     - [techno-science.net](https://www.techno-science.net/definition/3177.html)
     - [circe-technologies.com](https://www.circe-technologies.com/inductance2.html)
+
+# Kikad
