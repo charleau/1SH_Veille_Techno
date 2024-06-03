@@ -1,0 +1,3 @@
+function f_message_cache() {
+alert("Le lien su site d'origine n'est plus valable.\nCette page représente le cache.");
+}

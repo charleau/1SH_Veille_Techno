@@ -17,6 +17,7 @@
   - [Qu'est-ce qu'un ***potentiomètre*** ?](#quest-ce-quun-potentiomètre-)
   - [Qu'est-ce qu'une ***inductance*** ?](#quest-ce-quune-inductance-)
 - [Kikad](#kikad)
+  - [Création d'un projet](#création-dun-projet)
 
 # **Courant**
 - Sources
@@ -221,3 +222,11 @@
     - [circe-technologies.com](https://www.circe-technologies.com/inductance2.html)
 
 # Kikad
+
+### Sources <!-- omit in toc -->
+- [docs.kicad.org](https://docs.kicad.org/8.0/fr/getting_started_in_kicad/getting_started_in_kicad.html)
+- [youtube.com - 1](https://youtu.be/OlOihLaRphs?si=jovm64S-CJUNUjJX)
+    
+
+## Création d'un projet
+- 
