@@ -104,7 +104,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
 
 ## **Composantes**
 ### Qu'est-ce qu'un ***condensateur*** ?
-<img src="assets/condensateur.png" width="auto" height="300"/>
+<img src="assets/electronique/condensateur.png" width="auto" height="300"/>
 
 - Élément de stockage de charges électriques
 - Trois paramètres principaux
@@ -122,7 +122,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/common-types-of-capacitors-and-how-they-are-made)
 
 ### Qu'est-ce qu'une ***résistance*** ?
-<img src="assets/resistance.png" width="auto" height="300"/>
+<img src="assets/electronique/resistance.png" width="auto" height="300"/>
 
 - Élément servant à diminuer un courant électrique
 - Unité d'une résistance
@@ -133,7 +133,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [pccollege.fr](http://pccollege.fr/quatrieme-2/electricite-les-lois-du-courant-continu/chapitre-iv-les-resistances-electriques/)
 
 ### Qu'est-ce qu'une ***diode*** ?
-<img src="assets/diode.png" width="auto" height="300"/>
+<img src="assets/electronique/diode.png" width="auto" height="300"/>
 
 - Élément servant à laisser passer le courant dans un sens unique
 - Anode = positif
@@ -161,7 +161,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [redeweb.com](https://www.redeweb.com/fr/actualidad/que-es-un-diodo/)
 
 ### Qu'est-ce qu'un ***transistor*** ?
-<img src="assets/transistor.png" width="auto" height="300"/>
+<img src="assets/electronique/transistor.png" width="auto" height="300"/>
 
 - Sert à amplifier, faire basculer des signaux électroniques ou de l’énergie électrique
 - Émetteur, base et collecteur
@@ -172,7 +172,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [couleur-science.eu](https://couleur-science.eu/?d=775902--cest-quoi-un-transistor-comment-ca-marche)
 
 ### Qu'est-ce qu'un ***varistor*** ou une ***varistance*** ?
-<img src="assets/varisistor.png" width="auto" height="300">
+<img src="assets/electronique/varisistor.png" width="auto" height="300">
 
 - Sert à protéger les circuits des surtensions
 - Adapte sa résistance selon le courant d'entrée
@@ -181,7 +181,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [ourpcbfr.com](https://ourpcbfr.com/varistances-a-oxyde-metallique-mov.html)
 
 ### Qu'est-ce qu'une ***thermistance*** ?
-<img src="assets/thermistance.png" width="auto" height="300">
+<img src="assets/electronique/thermistance.png" width="auto" height="300">
 
 - Abréviation de *résistance thermosensible*
 - Élément de détection de la température
@@ -198,7 +198,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [arrow.com](https://www.arrow.com/fr-fr/research-and-events/articles/how-does-a-thermistor-work)
 
 ### Qu'est-ce qu'une ***photorésistance*** ?
-<img src="assets/photorésistance.png" width="auto" height="300">
+<img src="assets/electronique/photorésistance.png" width="auto" height="300">
 
 - Aussi appellé *LDR*
 - Sert à détecter une intensité lumineuse
@@ -215,7 +215,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [ourpcbfr.com](https://ourpcbfr.com/resistance-dependante-de-la-lumiere.html)
 
 ### Qu'est-ce qu'un ***potentiomètre*** ?
-<img src="assets/potentiomètre.png" width="auto" height="300">
+<img src="assets/electronique/potentiomètre.png" width="auto" height="300">
 
 - Agit comme une résistance variable
 - Sert à controler le niveau de courant électrique qui le traverse
@@ -223,7 +223,7 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     - [rayzeek.com](https://www.rayzeek.com/fr/glossary/quest-ce-quun-potentiometre)
 
 ### Qu'est-ce qu'une ***inductance*** ?
-<img src="assets/inductance.png" width="auto" height="300">
+<img src="assets/electronique/inductance.png" width="auto" height="300">
 
 - Utilités
     - Créer un champ magnétique
@@ -254,9 +254,39 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
     
 
 ## Création d'un projet
-Lorem Ipsum
+1. N.b. La version 8.0.2 de *KiCad* a été utilisée pour ce projet
+   1. [Télécharger](https://www.kicad.org/download/) le logiciel Open Source *KiCad*
+   2. [Installer](https://docs.kicad.org/8.0/en/getting_started_in_kicad/getting_started_in_kicad.html#download-and-install-kicad) le logiciel
+   3. Ouvrir le logiciel KiCad
+2. Créer un nouveau projet<br>
+    <img src="assets/KiCad/new_prj.png" width="auto" height="300">
+    <br><br>
 ## Schéma électrique
-Lorem Ipsum
+1. Ouvrir l'éditeur de Schématique
+   <br>
+   <img src="assets/KiCad/new_sche.png" width="auto" height="300">
+   <br><br>
+2. Ajouter les symboles nécessaires
+   1. Ouvrer le menu d'ajout de symbole
+   2. Rechercher par texte ou dans la liste le symbole voulu.
+   3. Sélectionner votre symbole et faire *OK* pour l'ajouter
+   - Répéter ces étapes pour ajouter de nouveaux symboles
+   - Il est possible de copier-coller un symbole déjà ajouté au schéma
+
+    <img src="assets/KiCad/add_symb.png" width="auto" height="300">
+   <br><br>
+   Dans le cadre du projet et afin de ne pas surcharcher les étapes, les symboles sont ajoutés par types, tous à la fois. Il est de votre devoir de tous les ajouter un à un.
+   <br><br>
+   1. Ajout du *chip* voulu (ici un amplificateur audio TDA7294)<br>
+      <img src="assets/KiCad/add_tda.png" width="auto" height="300"><br>
+   2. Ajout des résistances <br>
+      <img src="assets/KiCad/add_res.png" width="auto" height="300"><br>
+   3. Ajout des condensateurs <br>
+      <img src="assets/KiCad/add_cap.png" width="auto" height="300"><br>
+   4. Et ainsi de suite... <br>
+   5. Ajouter des fils (relier les pins ensemble)
+      <br><img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
+      À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite
 ## Conception du circuit imprimé
 Lorem Ipsum
 ## Exportation en GERBER
