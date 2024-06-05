@@ -42,6 +42,8 @@ Dans un premier lieu, nous verrons les fondamentaux de l'électricité, qui est 
 
 Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un schéma électronique pour en suivre avec la conception d'un circuit imprimé de base. Il vous sera également expliqué et démontré le fonctionnement de base du logiciel *KiCad* qui servira à réaliser cette expérimentation.
 
+La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificateur audio 70 Watts - abcelectronique.com*](https://www.abcelectronique.com/annuaire/montages/cache/731/amplificateur-audio-70-watts-avec-tda-7294.html) et à l'aide du site web de [*Mouser Electronics*](https://www.mouser.ca/) pour le listage des composantes électroniques.
+
 # Recherche sur l'électronique fondamentale
 
 ## **Courant**
@@ -284,9 +286,17 @@ Dans un deuxième lieu, nous expérimenterons tout d'abord la conception d'un sc
    3. Ajout des condensateurs <br>
       <img src="assets/KiCad/add_cap.png" width="auto" height="300"><br>
    4. Et ainsi de suite... <br>
-   5. Ajouter des fils (relier les pins ensemble)
-      <br><img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
-      À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite
+   5. Ajouter des fils (relier les pins ensemble)<br>
+      <img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
+      À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite <br><br>
+   6. Assigner les empreintes (facilite la conception du circuit imprimé)<br>
+      <img src="assets/KiCad/add_footprint.png" width="auto" height="300"><br>
+      Passer chacun des éléments de la liste du centre et leur assigner une empreinte<br><br>
+   7. Effectuer un test des règles électriques
+      <img src="assets/KiCad/check_rules.png" width="auto" height="300"><br>
+      Cliquer sur *Exécuter ERC* au bas gauche de la fenêtre qui s'ouvrira<br><br>
+   8. Aller au mode d'édition de PCB (circuit imprimé)<br>
+      <img src="assets/KiCad/goto_pcb_edit.png" width="auto" height="300"><br>
 ## Conception du circuit imprimé
 Lorem Ipsum
 ## Exportation en GERBER
