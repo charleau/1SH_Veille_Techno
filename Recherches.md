@@ -30,7 +30,7 @@
 # Introduction
 L'électronique est essentiel dans notre monde moderne, régissant le fonctionnement des appareils que nous utilisons au quotidien et dans tous les domaines. Sans que nous les voyions nécessairement, les pièces électroniques fondamentales qui font partie de nos vies sont assemblées à l'aide de circuits imprimés, ce qui facilite grandement leur intégration aux appareils.
 
-Les circuits imprimés servent donc de supports physiques et de méthode simplifiée pour effectuer tous les branchements entre les différents composants. Il permet également une miniaturisation des circuits électroniques puisque graçe aux machines, une précision beaucoup plus grande peut être appliquée et de plus petites pièces peuvent être utilisées.
+Les circuits imprimés servent donc de supports physiques et de méthode simplifiée pour effectuer tous les branchements entre les différents composants. Il permet également une miniaturisation des circuits électroniques puisque, grâce aux machines, une précision beaucoup plus grande peut être appliquée et de plus petites pièces peuvent être utilisées.
 
 Pour concevoir des circuits imprimés, il faut donc avoir une bonne connaissance de l'électronique fondamentale.
 
