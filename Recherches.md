@@ -276,27 +276,27 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
    - Il est possible de copier-coller un symbole déjà ajouté au schéma
 
     <img src="assets/KiCad/add_symb.png" width="auto" height="300">
+    <br><br>
+    Dans le cadre du projet et afin de ne pas surcharcher les étapes, les symboles sont ajoutés par types, tous à la fois. Il est de votre devoir de tous les ajouter un à un.
    <br><br>
-   Dans le cadre du projet et afin de ne pas surcharcher les étapes, les symboles sont ajoutés par types, tous à la fois. Il est de votre devoir de tous les ajouter un à un.
-   <br><br>
-   1. Ajout du *chip* voulu (ici un amplificateur audio TDA7294)<br>
+    1. Ajout du *chip* voulu (ici un amplificateur audio TDA7294)<br>
       <img src="assets/KiCad/add_tda.png" width="auto" height="300"><br>
-   2. Ajout des résistances <br>
+    2. Ajout des résistances <br>
       <img src="assets/KiCad/add_res.png" width="auto" height="300"><br>
-   3. Ajout des condensateurs <br>
+    3. Ajout des condensateurs <br>
       <img src="assets/KiCad/add_cap.png" width="auto" height="300"><br>
-   4. Et ainsi de suite... <br>
-   5. Ajouter des fils (relier les pins ensemble)<br>
-      <img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
-      À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite <br><br>
-   6. Assigner les empreintes (facilite la conception du circuit imprimé)<br>
-      <img src="assets/KiCad/add_footprint.png" width="auto" height="300"><br>
-      Passer chacun des éléments de la liste du centre et leur assigner une empreinte<br><br>
-   7. Effectuer un test des règles électriques
-      <img src="assets/KiCad/check_rules.png" width="auto" height="300"><br>
-      Cliquer sur *Exécuter ERC* au bas gauche de la fenêtre qui s'ouvrira<br><br>
-   8. Aller au mode d'édition de PCB (circuit imprimé)<br>
-      <img src="assets/KiCad/goto_pcb_edit.png" width="auto" height="300"><br>
+    4. Et ainsi de suite... <br>
+3. Ajouter des fils (relier les pins ensemble)<br>
+        <img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
+    À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite <br><br>
+4. Assigner les empreintes (facilite la conception du circuit imprimé)<br>
+    <img src="assets/KiCad/add_footprint.png" width="auto" height="300"><br>
+    Passer chacun des éléments de la liste du centre et leur assigner une empreinte<br><br>
+5. Effectuer un test des règles électriques
+    <img src="assets/KiCad/check_rules.png" width="auto" height="200"><br>
+    Cliquer sur *Exécuter ERC* au bas gauche de la fenêtre qui s'ouvrira<br><br>
+6. Aller au mode d'édition de PCB (circuit imprimé)<br>
+    <img src="assets/KiCad/goto_pcb_edit.png" width="auto" height="200"><br>
 ## Conception du circuit imprimé
 Lorem Ipsum
 ## Exportation en GERBER
