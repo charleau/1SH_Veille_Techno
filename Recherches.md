@@ -289,7 +289,7 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
 3. Ajouter des fils (relier les pins ensemble)<br>
         <img src="assets/KiCad/final_sche.png" width="auto" height="300"><br>
     À l'aide de l'outil *Ajouter Fil* dans la barre d'outils de droite <br><br>
-4. Assigner les empreintes (facilite la conception du circuit imprimé)<br>
+4. Assigner les empreintes (facilite la conception du circuit imprimé)<a id="assigner_empreintes"></a><br>
     <img src="assets/KiCad/add_footprint.png" width="auto" height="300"><br>
     Passer chacun des éléments de la liste du centre et leur assigner une empreinte<br><br>
 5. Effectuer un test des règles électriques
@@ -298,7 +298,24 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
 6. Aller au mode d'édition de PCB (circuit imprimé)<br>
     <img src="assets/KiCad/goto_pcb_edit.png" width="auto" height="200"><br>
 ## Conception du circuit imprimé
-Lorem Ipsum
+1. Ouvrir le menu de mise à jour du PCB via le schéma<br>
+    <img src="assets/KiCad/import_sche.png" width="auto" height="200"><br>
+    Cliquer sur *Mise à jour PCB* au bas gauche de la fenêtre qui s'ouvrira<br><br> *KiCad* importera automatiquement les empreintes réglées dans le schéma ([voir étape 4 - Schéma électrique](#assigner_empreintes)) en incluant les branchements qui devraient être faits (petites lignes bleues)<br>
+    <img src="assets/KiCad/base_sche.png" width="auto" height="300"><br><br>
+2. Placer les éléments comme désiré en essayant de maximiser les chemins<br>
+    <img src="assets/KiCad/pcb_base.png" width="auto" height="300"><br>
+    N.b. Vous verrez que le schéma de base (ci-haut) a été d'avantage optimisé au fil des étapes <br><br>
+3. Tracer les chemins électriques reliant les éléments en se basant sur les lignes bleues pâles. Les connexions possibles selon le schéma électrique seront mises de l'avant après un clic sur un élément<br>
+    <img src="assets/KiCad/outil_routes.png" width="auto" height="300"><br>
+   - La largeur du chemin est importante. Pour modifier la largeur
+     <img src="assets/KiCad/add_width.png" width="auto" height="300"><br>
+   - [Charte des largeurs de chemin recommandées](https://www.candorind.com/blog/pcb-trace-width-vs-current-table/#ipc-recommended-track-width-for-1-oz-cooper-pcb-and-10c-temperature-rise)
+   - Pour rendre possible les multiples connexions, il est possible de faire les chemins électriques sur plusieurs couches différentes grâce aux *via*. Dans le cadre du projet, deux couches sont utilisées (bleu et rouges sont les couleurs qui les différencient)
+   <img src="assets/KiCad/pcb2_chemins.png" width="auto" height="300"><br>
+   N.b. Ne pas se fier aux largeurs des chemins. Ils sont figuratifs.<br><br>
+   - Les via permettent de changer de couche en concervant la continuité d'un chemin
+   <img src="assets/KiCad/via.png" width="auto" height="300"><br>
+
 ## Exportation en GERBER
 Lorem Ipsum
 
