@@ -24,7 +24,10 @@
   - [Création d'un projet](#création-dun-projet)
   - [Schéma électrique](#schéma-électrique)
   - [Conception du circuit imprimé](#conception-du-circuit-imprimé)
-  - [Exportation en GERBER](#exportation-en-gerber)
+  - [Exportation en GERBERS](#exportation-en-gerbers)
+- [Difficultés et facilitées](#difficultés-et-facilitées)
+  - [Difficultés rencontrées](#difficultés-rencontrées)
+  - [Facilitées rencontrées](#facilitées-rencontrées)
 - [Conclusion](#conclusion)
 
 # Introduction
@@ -322,7 +325,7 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
   <img src="assets/KiCad/how_visu3d.png" width="auto" height="300"><br>
   <img src="assets/KiCad/visu3d.png" width="auto" height="300"><br>
 
-## Exportation en GERBER
+## Exportation en GERBERS
 - L'exportation en fichiers *.grb* permet d'envoyer le circuit imprimé en fabrication sur des sites web tels que:
   - [digikey.ca](https://www.digikey.ca/en/pcb-builder/?p=dkred)
   - [jlcpcb.com](https://jlcpcb.com/)
@@ -348,7 +351,19 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
   
 3. Compresser tous les fichiers dans un dossier ZIP<br>
    <img src="assets/KiCad/fichiers_grb.png" width="auto" height="300"><br><br>
-   
+
+
+# Difficultés et facilitées
+## Difficultés rencontrées
+- Au niveau de ma recherche, il a été difficile de trouver toutes les informations nécessaires et essentielles sur chacune des composantes puisque je n'ai trouvé aucun site web les listant toutes. J'ai dû faire des recherches approfondies pour chacune d'eux.
+- Au niveau de mon apprentissage avec le logiciel KiCad, j'ai eu beaucoup de difficulté, durant un certain temps, à comprendre son fonctionnement. Cependant, en suivant des tutoriels sur YouTube et en lisant la documentation officielle, j'ai fini par avoir un déclic et tout a super bien été par la suite.
+
+## Facilitées rencontrées
+- J'avais déjà certaines connaissances sur l'électronique fondamentale, ce qui a facilité grandement ma compréhension des principes électroniques et le fonctionnement des composantes.
 
 # Conclusion
-Lorem Ipsum
+L'exploration de l'électronique fondamentale et de la création de PCB avec KiCad montrent la complexité de ce domaine. L'électronique fondamentale constitue la base de tous les dispositifs modernes, impliquant des concepts tels que la tension, l'intensité, la puissance et la polarité. La compréhension de ces concepts est essentielle pour être capable de travailler avec des composantes de base.
+
+KiCad offre une plateforme robuste et simple d'utilisation pour la conception de circuits imprimés. Il permet la création de schémas électriques et la conception de PCB. Le tout pour en venir à l'exportation des fichiers nécessaires pour la fabrication. Il offre de nombreuses fonctionnalités très intéressantes comme la visualisation 3D et les tests de règles de conception ou d'électronique, ce qui assurent la fiabilité des projets et le respect des normes des fabricants.
+
+Donc, maîtriser les bases de l'électronique et savoir utiliser un outil comme KiCad est indispensable pour toute personne souhaitant concevoir des circuits imprimés. Cela permet non seulement de concrétiser des idées innovantes, mais aussi d'acquérir des compétences précieuses dans un domaine en constante évolution.
