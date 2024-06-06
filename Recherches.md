@@ -323,7 +323,32 @@ La conception faite sur le logiciel *KiCad* est basé sur le projet [*Amplificat
   <img src="assets/KiCad/visu3d.png" width="auto" height="300"><br>
 
 ## Exportation en GERBER
-Lorem Ipsum
+- L'exportation en fichiers *.grb* permet d'envoyer le circuit imprimé en fabrication sur des sites web tels que:
+  - [digikey.ca](https://www.digikey.ca/en/pcb-builder/?p=dkred)
+  - [jlcpcb.com](https://jlcpcb.com/)
+  - [pcbway.fr](https://www.pcbway.fr/pcb-service.html)
+
+
+1. Ouvrir l'exportateur à partir de l'*Éditeur de PCB*
+   1. Appuyer sur *Fichiers*
+   2. Appuyer sur *Fichiers de Fabrication*
+   3. Appuyer sur *Gerbers (gbr)...* <br><br>
+   <img src="assets/KiCad/export_gerber.png" width="auto" height="300"><br><br>
+2. Exporter les fichiers
+   1. Régler le répertoire de sortie des fichiers
+   2. Appuyer sur *Tracer*
+   3. Appuyer sur *Créer Fichiers de Perçage...* qui ouvrira une nouvelle fenêtre<br><br>
+      <img src="assets/KiCad/gerbers1.png" width="auto" height="300"><br><br>
+   4. Dans la nouvelle fenêtre
+      1. Appuyer sur *Créer Fichier de Perçage*
+      2. Appuyer sur *Créer Plan de Perçage*<br><br>
+      <img src="assets/KiCad/gerbers2.png" width="auto" height="300"><br><br>
+   
+   - Les fenêtres peuvent maintenant être fermées
+  
+3. Compresser tous les fichiers dans un dossier ZIP<br>
+   <img src="assets/KiCad/fichiers_grb.png" width="auto" height="300"><br><br>
+   
 
 # Conclusion
 Lorem Ipsum
